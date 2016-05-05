@@ -1,0 +1,61 @@
+2016-05-04 19:57:19,334 [INFO ] [fn.py:26 ] <200 http://feeds.foxnews.com/foxnews/latest>
+2016-05-04 19:57:19,379 [INFO ] [fn.py:26 ] <200 http://www.foxnews.com/>
+2016-05-04 19:57:19,388 [DEBUG] [fn.py:32 ] 
+0.parse.item :                   []
+2016-05-04 19:57:19,388 [INFO ] [pipelines.py:40 ] {'title': []}[<class 'foxnews.items.News'>]
+2016-05-04 19:57:19,388 [INFO ] [pipelines.py:43 ] item : {'title': []}[<class 'foxnews.items.News'>
+2016-05-04 19:57:19,407 [INFO ] [pipelines.py:49 ] Question added to MongoDB database!
+2016-05-04 19:57:19,416 [INFO ] [fn.py:26 ] <200 http://www.foxnews.com/tech.html>
+2016-05-04 19:57:19,428 [DEBUG] [fn.py:32 ] 
+0.parse.item :                   []
+2016-05-04 19:57:19,428 [INFO ] [pipelines.py:40 ] {'title': []}[<class 'foxnews.items.News'>]
+2016-05-04 19:57:19,429 [INFO ] [pipelines.py:43 ] item : {'title': []}[<class 'foxnews.items.News'>
+2016-05-04 19:57:19,429 [INFO ] [pipelines.py:49 ] Question added to MongoDB database!
+2016-05-04 19:57:19,430 [INFO ] [fn.py:26 ] <200 http://www.foxnews.com/politics.html>
+2016-05-04 19:57:19,442 [DEBUG] [fn.py:32 ] 
+0.parse.item :                   []
+2016-05-04 19:57:19,442 [INFO ] [pipelines.py:40 ] {'title': []}[<class 'foxnews.items.News'>]
+2016-05-04 19:57:19,443 [INFO ] [pipelines.py:43 ] item : {'title': []}[<class 'foxnews.items.News'>
+2016-05-04 19:57:19,444 [INFO ] [pipelines.py:49 ] Question added to MongoDB database!
+2016-05-04 19:57:19,446 [INFO ] [fn.py:26 ] <200 http://www.foxnews.com/opinion.html>
+2016-05-04 19:57:19,453 [DEBUG] [fn.py:32 ] 
+0.parse.item :                   []
+2016-05-04 19:57:19,453 [INFO ] [pipelines.py:40 ] {'title': []}[<class 'foxnews.items.News'>]
+2016-05-04 19:57:19,454 [INFO ] [pipelines.py:43 ] item : {'title': []}[<class 'foxnews.items.News'>
+2016-05-04 19:57:19,455 [INFO ] [pipelines.py:49 ] Question added to MongoDB database!
+2016-05-04 19:57:19,468 [INFO ] [fn.py:26 ] <200 http://insider.foxnews.com/latest>
+2016-05-04 19:57:19,474 [DEBUG] [fn.py:32 ] 
+0.parse.item : [u'<a href="/2016/05/04/reince-priebus-says-donald-trump-will-work-gop-without-us-he-cant-win">Priebus Says Trump Will Work With GOP: \'Without Us, He Can\'t Win\'</a>', u'<a href="/2016/05/04/romanian-hacker-guccifer-claims-he-accessed-hillarys-email-server-it-was-easy">Romanian Hacker Claims He Accessed Hillary\'s Email Server: \'It Was Easy\'</a>', u'<a href="/2016/05/04/jane-sanders-your-world-neil-cavuto-rules-dont-make-lot-sense">Jane Sanders: The Rules Don\'t Make a Lot of Sense</a>', u'<a href="/2016/05/04/ohio-governor-john-kasich-suspends-presidential-campaign">Kasich Bows Out of 2016 Race: \'The Lord Will Show Me the Way Forward\'</a>', u'<a href="/2016/05/04/basset-hounds-stay-dying-babys-side-until-very-end">Basset Hounds Stay at Dying Baby\'s Side Until the Very End</a>', u'<a href="/2016/05/04/3-black-students-indicted-falsely-reporting-racially-motivated-assault">3 Students Indicted for Falsely Reporting Racially-Motivated Assault</a>', u'<a href="/2016/05/04/firefighters-rescuing-animals">It\'s Nat\'l Firefighters Day: Let\'s Look Back at Some Unusual Rescues </a>', u'<a href="/2016/05/04/why-hillary-clinton-scared-donald-trump">Hegseth: Why Hillary Clinton Is \'Scared\' of Donald Trump</a>', u'<a href="/2016/05/04/kt-mcfarland-blasts-obamas-cynical-use-us-troops-fight-against-isis">McFarland Blasts Obama\'s \'Cynical\' Use of U.S. Troops in Fight Against ISIS</a>', u'<a href="/2016/05/04/john-kasich-suspend-his-campaign">DETAILS: John Kasich Will Suspend His Presidential Campaign </a>']
+2016-05-04 19:57:19,477 [INFO ] [pipelines.py:40 ] {'title': [u'<a href="/2016/05/04/reince-priebus-says-donald-trump-will-work-gop-without-us-he-cant-win">Priebus Says Trump Will Work With GOP: \'Without Us, He Can\'t Win\'</a>',
+           u'<a href="/2016/05/04/romanian-hacker-guccifer-claims-he-accessed-hillarys-email-server-it-was-easy">Romanian Hacker Claims He Accessed Hillary\'s Email Server: \'It Was Easy\'</a>',
+           u'<a href="/2016/05/04/jane-sanders-your-world-neil-cavuto-rules-dont-make-lot-sense">Jane Sanders: The Rules Don\'t Make a Lot of Sense</a>',
+           u'<a href="/2016/05/04/ohio-governor-john-kasich-suspends-presidential-campaign">Kasich Bows Out of 2016 Race: \'The Lord Will Show Me the Way Forward\'</a>',
+           u'<a href="/2016/05/04/basset-hounds-stay-dying-babys-side-until-very-end">Basset Hounds Stay at Dying Baby\'s Side Until the Very End</a>',
+           u'<a href="/2016/05/04/3-black-students-indicted-falsely-reporting-racially-motivated-assault">3 Students Indicted for Falsely Reporting Racially-Motivated Assault</a>',
+           u'<a href="/2016/05/04/firefighters-rescuing-animals">It\'s Nat\'l Firefighters Day: Let\'s Look Back at Some Unusual Rescues </a>',
+           u'<a href="/2016/05/04/why-hillary-clinton-scared-donald-trump">Hegseth: Why Hillary Clinton Is \'Scared\' of Donald Trump</a>',
+           u'<a href="/2016/05/04/kt-mcfarland-blasts-obamas-cynical-use-us-troops-fight-against-isis">McFarland Blasts Obama\'s \'Cynical\' Use of U.S. Troops in Fight Against ISIS</a>',
+           u'<a href="/2016/05/04/john-kasich-suspend-his-campaign">DETAILS: John Kasich Will Suspend His Presidential Campaign </a>']}[<class 'foxnews.items.News'>]
+2016-05-04 19:57:19,478 [INFO ] [pipelines.py:43 ] item : {'title': [u'<a href="/2016/05/04/reince-priebus-says-donald-trump-will-work-gop-without-us-he-cant-win">Priebus Says Trump Will Work With GOP: \'Without Us, He Can\'t Win\'</a>',
+           u'<a href="/2016/05/04/romanian-hacker-guccifer-claims-he-accessed-hillarys-email-server-it-was-easy">Romanian Hacker Claims He Accessed Hillary\'s Email Server: \'It Was Easy\'</a>',
+           u'<a href="/2016/05/04/jane-sanders-your-world-neil-cavuto-rules-dont-make-lot-sense">Jane Sanders: The Rules Don\'t Make a Lot of Sense</a>',
+           u'<a href="/2016/05/04/ohio-governor-john-kasich-suspends-presidential-campaign">Kasich Bows Out of 2016 Race: \'The Lord Will Show Me the Way Forward\'</a>',
+           u'<a href="/2016/05/04/basset-hounds-stay-dying-babys-side-until-very-end">Basset Hounds Stay at Dying Baby\'s Side Until the Very End</a>',
+           u'<a href="/2016/05/04/3-black-students-indicted-falsely-reporting-racially-motivated-assault">3 Students Indicted for Falsely Reporting Racially-Motivated Assault</a>',
+           u'<a href="/2016/05/04/firefighters-rescuing-animals">It\'s Nat\'l Firefighters Day: Let\'s Look Back at Some Unusual Rescues </a>',
+           u'<a href="/2016/05/04/why-hillary-clinton-scared-donald-trump">Hegseth: Why Hillary Clinton Is \'Scared\' of Donald Trump</a>',
+           u'<a href="/2016/05/04/kt-mcfarland-blasts-obamas-cynical-use-us-troops-fight-against-isis">McFarland Blasts Obama\'s \'Cynical\' Use of U.S. Troops in Fight Against ISIS</a>',
+           u'<a href="/2016/05/04/john-kasich-suspend-his-campaign">DETAILS: John Kasich Will Suspend His Presidential Campaign </a>']}[<class 'foxnews.items.News'>
+2016-05-04 19:57:19,480 [INFO ] [pipelines.py:49 ] Question added to MongoDB database!
+2016-05-04 19:57:19,485 [INFO ] [fn.py:26 ] <200 http://www.foxnews.com/science.html>
+2016-05-04 19:57:19,497 [DEBUG] [fn.py:32 ] 
+0.parse.item :                   []
+2016-05-04 19:57:19,497 [INFO ] [pipelines.py:40 ] {'title': []}[<class 'foxnews.items.News'>]
+2016-05-04 19:57:19,498 [INFO ] [pipelines.py:43 ] item : {'title': []}[<class 'foxnews.items.News'>
+2016-05-04 19:57:19,498 [INFO ] [pipelines.py:49 ] Question added to MongoDB database!
+2016-05-04 19:57:19,825 [INFO ] [fn.py:26 ] <200 http://www.foxnews.com/trending/>
+2016-05-04 19:57:19,830 [DEBUG] [fn.py:32 ] 
+0.parse.item :                   []
+2016-05-04 19:57:19,830 [INFO ] [pipelines.py:40 ] {'title': []}[<class 'foxnews.items.News'>]
+2016-05-04 19:57:19,831 [INFO ] [pipelines.py:43 ] item : {'title': []}[<class 'foxnews.items.News'>
+2016-05-04 19:57:19,832 [INFO ] [pipelines.py:49 ] Question added to MongoDB database!
